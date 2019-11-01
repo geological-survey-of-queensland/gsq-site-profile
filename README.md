@@ -1,21 +1,20 @@
-# GSQ Site Profile Name
-Provide a short introduction to the profile to help the reader understand the context and purpose of the dataset profile.
+# GSQ Site Profile
+This profile describes the ```site``` concept. 
+
+GSQ uses ```site``` to describe a (typically) physical location. Examples of ```site``` are:
+- where the sample was collected
+- where the borehole was drilled
+- where the seismic line was shot
 
 <p align="center">
 <img src="model/profile-template.svg" width="700px"><br>
-Figure 1: Add title of graphic</p>
+Figure 1: Site profile</p>
 
 Add additional text as required to explain the profile.
 
-# Dataset Subclass Profile Name (optional)
-Show a subclass where necessary to educate the reader. e.g. A `survey` profile shows a `seismic survey` - a specific type of `survey`.
-
-<p align="center">
-<img src="model/profile-template.svg" width="600px"><br>
-Figure 2: Add title of graphic</p>
 
 # Dataset Profile Usage (optional)
-Explain the usage of the dataset profile using both textual and graphical means. This section helps the reader understand the profile and how it is used in the real world.
+When conducting an exploration survey, it may not be possible to sample the entire geological or administrative feature in one sample. For instance, when collecting stream sediments along a water course, the operator conducting the survey collects samples at intervals metres apart. Each sample collection point is considered a site. 
 
 Consider using an [activity diagram](https://www.lucidchart.com/pages/uml-activity-diagram), [state diagram](https://www.lucidchart.com/pages/uml-state-machine-diagram), or [sequence diagram](https://www.lucidchart.com/pages/uml-sequence-diagram) to explain process flows and temporal states.
 
