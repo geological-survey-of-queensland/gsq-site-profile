@@ -41,7 +41,7 @@ Classes used in this profile:
 
 ## OWL classes
 > This section lists the OWL classes (the internationally defined classes).  Delete the examples listed below as required.
-1.[dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
+1. [dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
 2. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
 3. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number 
 4. xxx:alias
