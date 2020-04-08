@@ -7,10 +7,10 @@ GSQ uses ```site``` to describe a (typically) physical location. Examples of ```
 - where the seismic line was shot
 
 <p align="center">
-<img src="model/profile-template.svg" width="700px"><br>
+<img src="model/profile-Site.svg" width="700px"><br>
 Figure 1: Site profile</p>
 
-Add additional text as required to explain the profile.
+Figure 1. shows the template Site profile used by GSQ.
 
 
 # Dataset Profile Usage (optional)
