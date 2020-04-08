@@ -34,50 +34,38 @@ This profile is presented as a series of files that perform different roles:
 > This section lists the GSQ classes that feature in the model. Use links to those classes. Delete the examples listed below as required.
 
 Classes used in this profile:
-1. [Queensland Mining Permit](https://github.com/geological-survey-of-queensland/gsq-permit-profile) - used if the report relates to a permit(s)
-2. [GSQ Survey Profile](https://github.com/geological-survey-of-queensland/gsq-survey-profile) - used if the report is the result of a survey event
+1. GSQ Geological or Administrative Feature
+2. GSQ Geological Property
+3. [GSQ Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 
 ## OWL classes
 > This section lists the OWL classes (the internationally defined classes).  Delete the examples listed below as required.
-1. [dcat:Dataset](https://w3c.github.io/dxwg/dcat/#Class:Dataset) - industry report is a special type of dataset
-2. [dcat:Theme](https://w3c.github.io/dxwg/dcat/#Property:resource_theme) - used to categorise the resource, the GSQ themes are described as [skos:Concept](http://www.w3.org/2004/02/skos/core#Concept)s in the vocabulary [GSQ Data Themes](http://vocabs.gsq.digital/vocabulary/gsq-data-themes)
-3. [dcat:Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution)
-4. [dct:Location](https://w3c.github.io/dxwg/dcat/#Class:Location) - spatial coverage of the report expressed as lat/long, centroid, bounding box or simple polygon
-5. [dct:creator](https://w3c.github.io/dxwg/dcat/#Property:resource_creator) - the author of the report
-6. [dct:publisher](https://w3c.github.io/dxwg/dcat/#Property:resource_publisher) - GSQ
-7. [dct:contactPoint](https://w3c.github.io/dxwg/dcat/#Property:resource_contact_point) - GSQ contact
-8. [dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
-9. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
-10. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number
-11. [dct:license](https://w3c.github.io/dxwg/dcat/#Property:resource_license) - not shown in diagram for readability
-12. [dcat:keyword](https://w3c.github.io/dxwg/dcat/#Property:resource_keyword) - not shown in diagram for readability
-13. [foaf:Agent](http://xmlns.com/foaf/spec/#term_Agent)
-14. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
-15. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
-16. [ProperInterval](https://www.w3.org/TR/owl-time/#time:ProperInterval) - the temporal coverage of the report
-17. [dct:created](https://w3c.github.io/dxwg/dcat/)
-18. [dct:issued](https://w3c.github.io/dxwg/dcat/#Property:resource_release_date) - date of formal issuance (e.g., open file publication)
-19. [dct:modified](https://w3c.github.io/dxwg/dcat/#Property:resource_update_date) - most recent date on which the item was changed, updated or modified
-
+1.[dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
+2. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
+3. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number 
+4. xxx:alias
+5. [dct:created](https://w3c.github.io/dxwg/dcat/)
+6. [dct:issued](https://w3c.github.io/dxwg/dcat/#Property:resource_release_date) - date of formal issuance (e.g., open file publication)
+7. [dct:modified](https://w3c.github.io/dxwg/dcat/#Property:resource_update_date) - most recent date on which the item was changed, updated or modified
+8. [dct:creator](https://w3c.github.io/dxwg/dcat/#Property:resource_creator) - the author of the report
+9. [dct:publisher](https://w3c.github.io/dxwg/dcat/#Property:resource_publisher) - GSQ
+10. [dct:contactPoint](https://w3c.github.io/dxwg/dcat/#Property:resource_contact_point) - GSQ contact
+11. [foaf:Agent](http://xmlns.com/foaf/spec/#term_Agent)
+12. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
+13. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
+14. [dct:Location](https://w3c.github.io/dxwg/dcat/#Class:Location) - spatial coverage of the report expressed as lat/long, centroid, bounding box or simple polygon
 
 ### [Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution) properties not shown in the diagram:
-> Keep the diagram simple by listing the secondary properties here instead of in the diagram.  
-1. [Title](https://w3c.github.io/dxwg/dcat/#Property:distribution_title)
-2. [Description](https://w3c.github.io/dxwg/dcat/#Property:distribution_description)
-3. [Download URL](https://w3c.github.io/dxwg/dcat/#Property:distribution_download_url)
-4. [Byte size](https://w3c.github.io/dxwg/dcat/#Property:distribution_size)
-5. [Format](https://w3c.github.io/dxwg/dcat/#Property:distribution_format)
-
+> No distribution properties for Site template
 
 ## Vocabularies
 > List the vocabularies and link to them if published. Delete the examples listed below as required.
 
 The vocabularies used in this profile are:
-1. [GSQ Data Themes](http://vocabs.gsq.digital/vocabulary/gsq-data-themes)
-2. [Earth Science Data Category](https://vocabs.gsq.digital/vocabulary/earth-science-data-category) - the category(s) of data contained in the report
-3. [Geoscience Feature of Interest](https://vocabs.gsq.digital/vocabulary/geoscience-foi)
-4. [Data Access Rights](http://vocabs.gsq.digital/vocabulary/data-access)
+1. [GSQ Site type](https://vocabs.gsq.digital/vocabulary/site-detail-type)
+2. [GSQ Status]()
+3. [GSQ Sub-status]()
 
 
 ## Licence
