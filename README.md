@@ -50,8 +50,8 @@ No distribution properties for Site template
 ## Vocabularies
 
 1. [GSQ Site type](https://vocabs.gsq.digital/vocabulary/site-detail-type)
-2. [GSQ Status]()
-3. [GSQ Sub-status]()
+2. GSQ Status
+3. GSQ Sub-status
 
 ## Licence
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
