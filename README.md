@@ -36,7 +36,7 @@ Classes used in this profile:
 8. [dct:creator](https://w3c.github.io/dxwg/dcat/#Property:resource_creator) - the author of the report
 9. [dct:publisher](https://w3c.github.io/dxwg/dcat/#Property:resource_publisher) - GSQ
 10. [dct:contactPoint](https://w3c.github.io/dxwg/dcat/#Property:resource_contact_point) - GSQ contact
-11. [foaf:Agent](http://xmlns.com/foaf/spec/#term_Agent)
+11. [prov:Agent](http://https://www.w3.org/TR/prov-o/#Agent)
 12. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
 13. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
 14. [dct:Location](https://w3c.github.io/dxwg/dcat/#Class:Location) - spatial coverage of the report expressed as lat/long, centroid, bounding box or simple polygon
