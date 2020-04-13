@@ -41,12 +41,10 @@ Classes used in this profile:
 13. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
 14. [dct:Location](https://w3c.github.io/dxwg/dcat/#Class:Location) - spatial coverage of the report expressed as lat/long, centroid, bounding box or simple polygon
 
-### [Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution) properties not shown in the diagram:
-
+## [Distribution](https://w3c.github.io/dxwg/dcat/#Class:Distribution) properties not shown in the diagram:
 No distribution properties for Site template
 
 ## Vocabularies
-
 1. [GSQ Site type](https://vocabs.gsq.digital/vocabulary/geoological-sites)
 2. [GSQ Status](https://vocabs.gsq.digital/vocabulary/site-status)
 3. [GSQ Sub-status](https://vocabs.gsq.digital/vocabulary/resource-project-lifecycle)
