@@ -49,9 +49,9 @@ No distribution properties for Site template
 
 ## Vocabularies
 
-1. [GSQ Site type](https://vocabs.gsq.digital/vocabulary/site-detail-type)
-2. GSQ Status
-3. GSQ Sub-status
+1. [GSQ Site type](https://vocabs.gsq.digital/vocabulary/geoological-sites)
+2. [GSQ Status](https://vocabs.gsq.digital/vocabulary/site-status)
+3. [GSQ Sub-status](https://vocabs.gsq.digital/vocabulary/resource-project-lifecycle)
 
 ## Licence
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
