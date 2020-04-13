@@ -12,7 +12,7 @@ Figure 1: Site profile</p>
 
 Figure 1. shows the template Site profile used by GSQ.
 
-## Profile Resources
+## Profile resources
 This profile is presented as a series of files that perform different roles:
 
 1. [model/](model/) - the *model* folder contains this profile's models in both graphical (SVG) and machine-readable, textual, form ( [RDF](https://www.w3.org/RDF/) turtle).
@@ -20,14 +20,12 @@ This profile is presented as a series of files that perform different roles:
 3. [profile.ttl](profile.ttl) - the profile declaration. A description of all of the items in this profile (the formal model, validating resources, documentation etc.) according to the W3C's [Profiles Ontology](https://www.w3.org/TR/dx-prof/) which describes how all the parts related to one another, the roles they play (to give *guidance* for use, to *validate* data etc.) and how this profile *profiles* the various standards listed above.
 
 ## GSQ classes
-
 Classes used in this profile:
-1. GSQ Geological or Administrative Feature
-2. GSQ Geological Property
+1. [GSQ Geological Features](http://vocabs.gsq.digital/vocabulary/sweetgeofeatures) or [Administrative Features](http://linked.data.gov.au/def/geoadminfeatures)
+2. [GSQ Geological Property](https://github.com/geological-survey-of-queensland/geological-properties-ont)
 3. [GSQ Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 ## OWL classes
-
 1. [dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
 2. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
 3. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number 
