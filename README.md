@@ -52,18 +52,18 @@ No distribution properties for Site template
 ## Licence
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
 
-## Contacts 
-*owner*:  
-**Mark Gordon**  
-*Director - Geoscience Information*  
-Geological Survey of Queensland  
-<mark.gordon@dnrme.qld.gov.au>  
+## Contacts
+*System owner*:  
+**Mark Gordon**,
+Geological Survey of Queensland,
+Department of Resources,
+Brisbane, QLD, Australia,
+<mark.gordon@resources.qld.gov.au>  
 
-*author*:  
-**Your Name**  
-*Your Role Title - Your Unit*  
-Geological Survey of Queensland  
-<your.email@dnrme.qld.gov.au>
-
-___
-**Profile Status:** Draft
+*Contributors*:  
+**Vance Kelly**,
+Principal Data Manager,
+Geological Survey of Queensland,
+Department of Resources,
+Brisbane, QLD, Australia,  
+<vance.kelly@resources.qld.gov.au>
